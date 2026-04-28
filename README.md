@@ -207,8 +207,23 @@ https://drive.google.com/drive/folders/1WQT1DX-rFkjmr67iPp2PVNDODWfly-3_?usp=sha
 * Apply machine learning models
 * Integrate real-time bird tracking data
 * Enhance dashboard with maps
-
+  
 ---
+## 📊 Dashboard Preview
+
+### 🔹 Python Visualizations (EDA Output)
+<img width="1903" height="887" alt="Screenshot 2026-04-28 120449" src="https://github.com/user-attachments/assets/6658e3bb-93f6-441d-9a23-b87f6f98774f" />
+<img width="1835" height="828" alt="Screenshot 2026-04-28 120438" src="https://github.com/user-attachments/assets/d3038fae-cb98-493b-bf07-8239a077bd1a" />
+<img width="1859" height="847" alt="Screenshot 2026-04-28 120428" src="https://github.com/user-attachments/assets/5c624bd1-9f73-45fe-bb0f-1e20669bef43" />
+
+## 📊 Dashboard Preview
+
+### 🔹Streamlit
+<img width="1519" height="898" alt="Screenshot 2026-04-28 120122" src="https://github.com/user-attachments/assets/b55888a8-51a9-46e0-9f81-1e9628dc6397" />
+<img width="1394" height="726" alt="Screenshot 2026-04-28 120400" src="https://github.com/user-attachments/assets/fdd0a545-53f8-4ba0-8bb6-ff153d506608" />
+<img width="1473" height="886" alt="Screenshot 2026-04-28 120131" src="https://github.com/user-attachments/assets/aca71772-ba1a-4e45-8d10-8abd3b2ca07a" />
+
+
 
 ## 👨‍💻 Author
 
