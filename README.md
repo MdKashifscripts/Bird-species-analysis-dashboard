@@ -102,7 +102,8 @@ Bird_Species_Analysis/
 
 * Some observers recorded more sightings
 
-### 🔹 Conservation Insights
+### 🔹 Conservation Insights[📊 Bird Observation Report.pdf](https://github.com/user-attachments/files/27155179/Bird.Observation.Report.pdf)
+
 
 * Watchlist species identified
 * Helps prioritize conservation efforts
@@ -179,18 +180,26 @@ streamlit run app.py
 
 ### 🔗 Source Code
 
-* [master_project.py](https://github.com/your-username/bird-species-analysis/blob/main/master_project.py)
-* [app.py](https://github.com/your-username/bird-species-analysis/blob/main/app.py)
+* [master_project.py]([master_project.py](https://github.com/user-attachments/files/27155055/master_project.py)
+)
+* [app.py]((https://github.com/user-attachments/files/27155080/app.py)
+)
 
 ### 🔗 Dataset
 
-* [Forest Data](https://github.com/your-username/bird-species-analysis/blob/main/Bird_Monitoring_Data_FOREST.XLSX)
-* [Grassland Data](https://github.com/your-username/bird-species-analysis/blob/main/Bird_Monitoring_Data_GRASSLAND.XLSX)
+* [Forest Data]([Bird_Monitoring_Data_FOREST.XLSX](https://github.com/user-attachments/files/27155150/Bird_Monitoring_Data_FOREST.XLSX)
+)
+* [Grassland Data]([Bird_Monitoring_Data_GRASSLAND.XLSX](https://github.com/user-attachments/files/27155154/Bird_Monitoring_Data_GRASSLAND.XLSX)
+)
 
 ### 🔗 Output Files
 
-* [Cleaned Dataset](https://github.com/your-username/bird-species-analysis/blob/main/cleaned_bird_data.csv)
-* [Database File](https://github.com/your-username/bird-species-analysis/blob/main/bird_data.db)
+* [Cleaned Dataset]([cleaned_bird_data.csv](https://github.com/user-attachments/files/27155168/cleaned_bird_data.csv)
+)
+* [Database File](
+
+
+)
 
 ---
 
