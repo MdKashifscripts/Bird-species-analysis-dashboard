@@ -178,28 +178,7 @@ streamlit run app.py
 
 ## 📂 Project Files
 
-### 🔗 Source Code
-
-* [master_project.py]([master_project.py]
-)
-[app.py](https://github.com/user-attachments/files/27155777/app.py)
-
-
-### 🔗 Dataset
-
-* [Forest Data]([Bird_Monitoring_Data_FOREST.XLSX]
-)
-* [Grassland Data]([Bird_Monitoring_Data_GRASSLAND.XLSX]
-)
-
-### 🔗 Output Files
-
-* [Cleaned Dataset]([cleaned_bird_data.csv]
-)
-* [Database File](
-
-
-)
+https://drive.google.com/drive/folders/1WQT1DX-rFkjmr67iPp2PVNDODWfly-3_?usp=sharing
 
 ---
 
