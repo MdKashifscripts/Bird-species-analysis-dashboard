@@ -102,7 +102,7 @@ Bird_Species_Analysis/
 
 * Some observers recorded more sightings
 
-### 🔹 Conservation Insights[📊 Bird Observation Report.pdf](https://github.com/user-attachments/files/27155179/Bird.Observation.Report.pdf)
+### 🔹 Conservation Insights
 
 
 * Watchlist species identified
